@@ -1,7 +1,7 @@
 <?php
 
 /* 
- * This script is used to update the data[approbe/admin] of one user, it uses the GET method, so if the user used
+ * This script is used to update the data[approve/admin] of one user, it uses the GET method, so if the user used
  * another method it will return error message, if the user used GET without no data sent, it will concern him with a message
  * that no data sent, then it checks the token and admin to authorize the connection, if admin and token is right continue
  * otherwise break with an 401 Unauthorized message, then checks if all required data are found [id-op], then update the data
@@ -45,10 +45,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
             respond("Undetermined operation!");
         }
         switch ($op){
-            case 'approve': $return = $userob->approve($id);        break;
-            case 'delete':  $return = $userob->delete($id);         break;
-            case 'setadmin':    $return = $userob->setAdmin($id);   break;
-            case 'unsetadmin':  $return = $userob->unsetAdmin($id); break;
+            case 'delete': $return = $userob->delete($id);        break;
+            case 'unsetadmin':$return = $userob->unsetAdmin($id); break;
+            case 'approve': $return = $userob->approve($id);    break;
+            case 'setadmin':$return = $userob->setAdmin($id);   break;
             default : respond("Undefined Operation");
         }
         echo json_encode(["result" => $return]);

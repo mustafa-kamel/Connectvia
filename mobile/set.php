@@ -17,24 +17,33 @@
 require_once '../globals.php';
 require_once '../includes/models/SensorsModel.php';
 require_once '../includes/models/UsersModel.php';
-require '.././vendor/autoload.php';
+require_once '.././vendor/autoload.php';
 Predis\Autoloader::register();
-$client = new Predis\Client();
 $sensorob = new SensorsModel();
 $userob   = new UsersModel();
+try {
+    $client = new Predis\Client(REDIS);
+} catch (Predis\Connection\ConnectionException $exc) {
+    echo $exc->getTraceAsString();
+    die( $exc->getMessage());
+}
 
 header('Content-Type: application/json');
 
 if ($_SERVER['REQUEST_METHOD'] == 'GET') {
     if (isset($_GET) && !empty($_GET)) {
-        $data = array(); $token = ''; $id = ''; $state = ''; $val = '';
+        $data = array(); $token = ''; $id = ''; $state = ''; $val = ''; $result=0;
         if (isset($_GET['token']) && !empty($_GET['token'])) {
             $token = $_GET['token'];
         } else {
             respond("You don't have permission, login first!", "401 Unauthorized");
         }
-        if (!$userob->chkToken($token)/*|| !$userob->isApproved($id)*/) {
+        if (!$userob->chkToken($token)) {
             respond("Incorrect information, Permission denied, login first!", "401 Unauthorized");
+        }
+        $user = $userob->getUserInfo();
+        if (!$user['is_approved']) {
+            respond("Sorry you don't have permission to access this content! You have to wait for approval.", "401 Unauthorized");
         }
         if (isset($_GET['id']) && !empty($_GET['id'])) {
             $id = intval($_GET['id']);
@@ -48,20 +57,20 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
         } else {
             respond("Invalid status!");
         }
-        if (isset($_GET['val'])) {
+        if (isset($_GET['val']) && !empty($_GET['val'])) {
             $val = intval($_GET['val']);
             $data['val'] = $val;
         }
-        /****************************PUSH $data in REDIS list HERE**************************/
-/**************************************************************************************************************************/
-        #header('location: ../rpi/exec.php?sid='.$data['sid'].'&state='.$data['state'].'&val='.$data['val']);
-        $lastline = exec("./exescript $id $state $val", $output, $return);
-        /*$result = $client->rpush('project', serialize($data))*/;
-        if ($return)
-            $sensorob->updateSensor($data);
-/**************************************************************************************************************************/
-            
-        echo json_encode(["result" => $return]);
+
+        if ($client->lpush('project', serialize($data)) && $sensorob->updateSensor($data)) {
+            $devices= $userob->getDevices();
+            $firebase= new Firebase();
+            $firebase->send($devices, $data);
+            $result = 1;
+        } else {
+            $result = 0;
+        }
+        echo json_encode(["result" => $result]);
     } else {
         respond("No data sent");
     }

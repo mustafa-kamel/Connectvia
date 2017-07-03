@@ -8,12 +8,8 @@
             <file>file:/C:/xampp/htdocs/SmartHome/globals.php</file>
         </group>
         <group name="htdocs">
-            <file>file:/C:/xampp/htdocs/SmartHome/rpi/exec.php</file>
-            <file>file:/C:/xampp/htdocs/SmartHome/rpi/update.php</file>
-            <file>file:/C:/xampp/htdocs/SmartHome/includes/models/SensorsModel.php</file>
+            <file>file:/C:/xampp/htdocs/SmartHome/includes/core/firebase.class.php</file>
             <file>file:/C:/xampp/htdocs/SmartHome/mobile/set.php</file>
-            <file>file:/C:/xampp/htdocs/SmartHome/includes/models/UsersModel.php</file>
-            <file>file:/C:/xampp/htdocs/SmartHome/rpi/temp.php</file>
         </group>
     </open-files>
 </project-private>

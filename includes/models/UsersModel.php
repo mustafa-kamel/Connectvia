@@ -142,9 +142,10 @@ class UsersModel {
      */
     public function approve ($id){
         $id= (int)$id;
-        if (System::get('db')->Update('users', array('is_approved'=> 1), "WHERE `id`= $id")){
-                //NOTIFICATION LIVES HERE
-                return TRUE;
+        if (System::get('db')->Update('users', array('is_approved' => 1), "WHERE `id`= $id")) {
+            $admin = $this->getById($id);
+            mail($admin['email'], "Approval", "An admin approved you, now you have access to the home go to log in. \r\n \r\n \r\n Regards, \r\n Connectvia Home", "From: admin@connectvia.net");
+            return TRUE;
         }
         return FALSE;
     }
@@ -156,9 +157,10 @@ class UsersModel {
      */
     public function setAdmin ($id){
         $id= (int)$id;
-        if (System::get('db')->Update('users', array('is_admin'=> 1) ,"WHERE `id`= $id")){
-                //NOTIFICATION LIVES HERE
-                return TRUE;
+        if (System::get('db')->Update('users', array('is_admin' => 1), "WHERE `id`= $id")) {
+            $admin = $this->getById($id);
+            mail($admin['email'], "Administrative message", "An admin set you as an admin for the home, now you can control the admin panel and approve new users. \r\n \r\n \r\n Regards, \r\n Connectvia Home", "From: admin@connectvia.net");
+            return TRUE;
         }
         return FALSE;
     }
@@ -177,22 +179,24 @@ class UsersModel {
 
 
     /**
-     * Login user
-     * Check if the user of given username and password is found in database
-     * If found then generate token and update token in the database and update userInfo using new token
+     * Login mobile user
+     * Check if the user of given username or email and password is found in database
+     * If found then generate token and update token in the database and update userInfo using new token and firebase token
      * Else return false [don't login]
      * @param string $username
      * @param string $password
+     * @param string $ftoken
      * @return boolean
      */
-    public function login($username, $password){
+    public function login($username, $password, $ftoken){
         $user= $this->get("WHERE (`username` ='$username' OR `email`='$username') AND `password`= '$password'");
         if (count($user)>0){
             $user= $user[0];
             $token= $this->genToken();
             $user['token']= $token;
+            $user['ftoken']= $ftoken;
             $id= $user['id'];
-            System::get('db')->Update('users', array('token'=>$token), "WHERE `id`= $id");
+            System::get('db')->Update('users', array('token'=>$token, 'ftoken'=>$ftoken), "WHERE `id`= $id");
             $this->userInfo= $user;
             return TRUE;
         }
@@ -200,6 +204,26 @@ class UsersModel {
     }
     
     /**
+     * Login web user
+     * Check if the user of given username and password is found in database
+     * If found then generate token and update token in the database and update userInfo using new token and firebase token
+     * Else return false [don't login]
+     * @param string $email
+     * @param string $password
+     * @return boolean
+     */
+    public function webLogin($email, $password){
+        $user= $this->get("WHERE (`email`='$email') AND `password`= '$password'");
+        if (count($user)>0){
+            if ($user[0]['is_approved']){
+                $this->userInfo= $user[0];
+                return TRUE;
+            }
+        }
+        return FALSE;
+    }
+
+        /**
      * Returns the data of the logged in user to store in session or send token [one row]
      * @return array
      */
@@ -244,5 +268,20 @@ class UsersModel {
         if (count($user)>0)
             return TRUE;
         return FALSE;
+    }
+    
+    /**
+     * Get list of devices firebase tokens
+     * @return array2D
+     */
+    public function getDevices (){
+        $users= $this->get("WHERE `ftoken` IS NOT NULL");
+        $devices= array();
+        if (count($users)>0){
+            foreach ($users as $user) {
+                array_push($devices, $user['ftoken']);
+            }
+        }
+        return $devices;
     }
 }

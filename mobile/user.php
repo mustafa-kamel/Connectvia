@@ -43,9 +43,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
         }
         switch ($type){
             case 'user':$return = $userob->getById($id);    break;
-            case 'new': $return = $userob->getNew();     break;
-            case 'admin':$return  = $userob->getAdmin();   break;
-            case 'all':  $return  = $userob->get();           break;
+            case 'new': $return = $userob->getNew();        break;
+            case 'admin':$return= $userob->getAdmin();      break;
+            case 'all':  $return= $userob->get();           break;
             default : respond("Undefined type");
         }
         echo json_encode($return, JSON_FORCE_OBJECT);

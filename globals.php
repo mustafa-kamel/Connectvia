@@ -14,16 +14,19 @@ require_once (CORE.'config.php');
 require_once (CORE.'mysql.class.php');
 require_once (CORE.'raintpl.class.php');
 require_once (CORE.'system.php');
+require_once (CORE.'firebase.class.php');
 System::store('db',new mysql());
 System::store('tpl',new RainTPL());
 /******************************************************************************/
 /**
  * check if the user isn't logged in then redirect him to the login page
- *
+ */
 function chkLogin(){
-if (!isset($_SESSION['username'])||$_SESSION['login']!=1)
-    System::RedirectTo('login.php');
-}*/
+    if (!isset($_SESSION['username']) || $_SESSION['is_approved'] != 1) {
+        session_destroy();
+        System::RedirectTo('login.php');
+    }
+}
 //header("HTTP/1.0 404 Not Found");
 //        $email= filter_input(INPUT_POST, $_POST['email'], FILTER_SANITIZE_EMAIL);       
 //        $password= filter_var($_POST['password'], FILTER_VALIDATE_REGEXP, array( "options"=> array( "regexp" => "/.{6,25}/")));

@@ -199,8 +199,6 @@ class SensorsModel {
     public function piTempUpdate($data){
         if (!empty($data)){
                 $sid= $data['sid'];
-                $state= $data['state'];
-                $sdata= array('state'=> $state);
                 if (isset($data['val'])) {
                     $val = intval($data['val']);
                     $sdata['curVal'] = $val;

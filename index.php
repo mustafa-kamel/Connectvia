@@ -3,4 +3,4 @@
 require_once 'globals.php';
 //chkLogin();
 //System::get('tpl')->draw('index');
-header('Location: mobile/login.php');
+header('Location: web/login.php');

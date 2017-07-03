@@ -33,6 +33,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
         if (!$userob->chkToken($token) /*|| !$userob->isApproved($id)*/) {
             respond("Incorrect information, Permission denied, login first!", "401 Unauthorized");
         }
+        $user = $userob->getUserInfo();
+        if (!$user['is_approved']) {
+            respond("Sorry you don't have permission to access this content! You have to wait for approval.", "401 Unauthorized");
+        }
         if (isset($_GET['type']) && !empty($_GET['type'])) {
             $type = $_GET['type'];
         } else {
