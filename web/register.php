@@ -28,7 +28,7 @@ if (isset($_POST['register'])) {
         error("Enter valid Email.");
     }
     if (isset($_POST['phone']) && !empty($_POST['phone']) && strlen($_POST['phone']) >= 8 && strlen($_POST['phone']) < 25) {
-        $phone = intval(trim($_POST['phone']));
+        $phone = strval(trim($_POST['phone']));
         $data['phone'] = $phone;
     } else {
         error("Enter valid phone number.");

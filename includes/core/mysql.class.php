@@ -132,7 +132,8 @@ class mysql {
         foreach ($data as $f => $v)
         {
             $fields  .= "`$f`,";
-            $values .= ( is_numeric( $v ) && ( intval( $v ) == $v ) ) ? $v."," : "'$v',";
+            $values .= "'$v',";
+			//$values .= ( is_numeric( $v ) && ( intval( $v ) == $v ) ) ? $v."," : "'$v',";
         }
 
         // remove our trailing ,
