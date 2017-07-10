@@ -1,5 +1,4 @@
 <?php
-
 require_once '../globals.php';
 require_once '../includes/models/SensorsModel.php';
 require_once '../includes/models/UsersModel.php';

@@ -1,15 +1,12 @@
 <?php
 require_once '../globals.php';
 require_once '../includes/models/UsersModel.php';
-//chkAdmin();
+define("TITLE", "Users");
+chkAdmin();
 ?>
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Users</title>
-    </head>
-    <body>
+<?php include('header.php');?>        
+<?php include('sidebar.php');?>
+        <div class="container" style="width: 96%; margin: 50px 300px 70px 50px;">
         <?php
         $userob = new UsersModel(); $msg = '';
         if ($_SERVER['REQUEST_METHOD'] == 'GET') {
@@ -31,36 +28,32 @@ require_once '../includes/models/UsersModel.php';
                     case 'all':  $return= $userob->get();           break;
                     default : $msg .= "Undefined type! ";
                 }
-                /*********************************************************************************************/
-                //include("../includes/header.php");
-                echo '<table>';
+                echo '<table class="table table-hover">';
                 if (isset($return)) {
-                    echo "<tr>
+                    echo "<thead><tr>
                                   <th>Username</th>
 					              <th>email</th>
 					              <th>Phone</th>
 					              <th>Approved?</th>
 					              <th>Admin?</th>
                                   <th>Time</th>
-                          </tr>";
+                          </tr></thead>";
                     foreach ($return as $user) {
-                        echo "<tr>
-					              <td>{$user['username']}</td>
+                        echo "<tbody><tr>
+					              <th scope='row'>{$user['username']}</td>
 					              <td>{$user['email']}</td>
 					              <td>{$user['phone']}</td>
 					              <td>{$user['is_approved']}</td>
 					              <td>{$user['is_admin']}</td>
                                   <td>{$user['createTime']}";
-	    				    if (!$user['is_approved']) {echo "<td><a href=\"admin.php?id={$user['id']}&op=approve\" class=\"button\">Approve</a></td>";}
-					        if (!$user['is_admin']) {echo "<td><a href=\"admin.php?id={$user['id']}&op=setadmin\" class=\"button\">Make Admin</a></td>";}
-					        else {echo "<td><a href=\"admin.php?id={$user['id']}&op=unsetadmin\" class=\"button\">Remove Admin</a></td>";}
-					          	  echo "<td><a href=\"admin.php?id={$user['id']}&op=delete\" class=\"button\">Delete</a></td>
-				              </tr>";
+	    				    if (!$user['is_approved']) {echo "<td class='bg-success'><a href=\"admin.php?id={$user['id']}&op=approve&type=$type\" class=\"button\">Approve</a></td>";}
+					        if (!$user['is_admin']) {echo "<td class='bg-warning'><a href=\"admin.php?id={$user['id']}&op=setadmin&type=$type\" class=\"button\">Make Admin</a></td>";}
+					        else {echo "<td><a href=\"admin.php?id={$user['id']}&op=unsetadmin&type=$type\" class=\"button\">Remove Admin</a></td>";}
+					          	  echo "<td class='bg-danger'><a href=\"admin.php?id={$user['id']}&op=delete&type=$type\" class=\"button\">Delete</a></td>
+				              </tr></tbody>";
                     }
                 }
                 echo '</table>';
-                //include("../includes/header.php");
-                /*********************************************************************************************/
             } else {
                 header("HTTP/1.0 503 Internal server errors");
                 $msg .= "No data sent! ";
@@ -71,6 +64,6 @@ require_once '../includes/models/UsersModel.php';
         }
         echo $msg;
         //System::RedirectTo("user.php");
-        ?>
-        </body>
-</html>
+        ?>       
+</div>
+<?php include('footer.php');?>

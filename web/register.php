@@ -47,7 +47,7 @@ if (isset($_POST['register'])) {
     } else {
         error("Enter valid password.");
     }
-    if (1/*$userob->add($data)*/) {
+    if ($userob->add($data)) {
         mail($data['email'], "Successful Registeration", "Your data has been saved successfully, Please wait until the admin approve you! \r\n \r\n \r\n Regards, \r\n Connectvia Home", "From: admin@connectvia.net");
         $admin = $userob->getAdmin();
         mail($admin[0]['email'], "New Registeration", "$username has registered to get access to the home, Check the admin panel. \r\n \r\n \r\n Regards, \r\n Connectvia Home", "From: admin@connectvia.net");

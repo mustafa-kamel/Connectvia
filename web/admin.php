@@ -1,13 +1,17 @@
 <?php
-
 require_once '../globals.php';
 require_once '../includes/models/UsersModel.php';
 $userob = new UsersModel();
-//chkAdmin();
-
+chkAdmin();
 if ($_SERVER['REQUEST_METHOD'] == 'GET') {
     if (isset($_GET) && !empty($_GET)) {
-        $id=''; $op=''; $msg='';
+        $id=''; $op=''; $type = ''; $msg='';
+        if (isset($_GET['type']) && !empty($_GET['type'])) {
+            $type = strval($_GET['type']);
+        } else {
+                header("HTTP/1.0 503 Internal server errors");
+                $msg .= "Undetermined type! ";
+        }
         if (isset($_GET['id']) && !empty($_GET['id'])) {
             $id = intval($_GET['id']);
         } else {
@@ -28,7 +32,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
             default : $msg .= "Undefined Operation! ";
         }
         echo $return == 1 ? "Successful" : "Failed";
-        System::RedirectTo("user.php?type=all");
+        System::RedirectTo("user.php?type=$type");
     } else {
         header("HTTP/1.0 503 Internal server errors");
         $msg .= "No data sent! ";
@@ -38,4 +42,4 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
     $msg .= "Unsupported method! ";
 }
 echo $msg;
-System::RedirectTo("user.php?type=all");
+System::RedirectTo("user.php?type=$type");
