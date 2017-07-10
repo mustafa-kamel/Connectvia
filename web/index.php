@@ -63,11 +63,13 @@ chkLogin();
     <body>
         <?php
         $sensorob = new SensorsModel(); $rid = 0; $room_num = 0;
+        $c = 0;
+        echo '<table><tr>';
         while (TRUE) {
             $rid++;
             $room = $sensorob->getRoom($rid);
-            if (!$room)
-                break;
+            if (!$room){break;}
+            echo '<td>';
             echo '<h3>Room ' . ++$room_num . '</h3>';
             foreach ($room as $key => $value) {
                 foreach ($value as $k => $v) {
@@ -80,12 +82,9 @@ chkLogin();
                         echo '<div id="' . $v . '">' . $sen['name'];
                     }
                     if (strpos($k, 'tate') != NULL) {
-                        echo 'Status<label class="switch">
-                                <input type="checkbox" id="state" ';
-                        if ($v)
-                            echo'checked';echo'>
-                                <div class="slider round"></div>
-                            </label>';
+                        echo 'Status<label class="switch"><input type="checkbox" id="state" ';
+                        if ($v){echo'checked';}
+                        echo'><div class="slider round"></div></label>';
                     }
                     if (strpos($k, 'axVa')) {
                         echo '<label for="val">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Max Value</label>
@@ -102,7 +101,13 @@ chkLogin();
                 }
                 echo '</div>';
             }
+            echo '</td>';
+            if ($c++ >= 2){
+                $c=0;
+                echo '</tr><tr>';
+            }
         }
+        echo '</table>';
         function alarm_draw($val, $sen) {
             echo '<div id="' . $val['sensors_sid'] . '">' . $sen['name'];
             echo '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Status: ';
@@ -135,6 +140,7 @@ chkLogin();
                         data: data
                     })
                             .done(function (data) {
+								console.log(data);
                             })
                             .fail(function (data) {
                                 alert("Error, reload page");

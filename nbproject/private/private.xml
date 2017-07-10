@@ -9,7 +9,7 @@
         </group>
         <group name="htdocs">
             <file>file:/C:/xampp/htdocs/SmartHome/includes/core/firebase.class.php</file>
-            <file>file:/C:/xampp/htdocs/SmartHome/mobile/set.php</file>
+            <file>file:/C:/xampp/htdocs/SmartHome/mobile/user.php</file>
         </group>
     </open-files>
 </project-private>

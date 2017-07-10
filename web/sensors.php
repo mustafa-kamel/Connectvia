@@ -3,8 +3,17 @@
 require_once '../globals.php';
 require_once '../includes/models/SensorsModel.php';
 require_once '../includes/models/UsersModel.php';
+require_once '.././vendor/autoload.php';
+Predis\Autoloader::register();
 $sensorob = new SensorsModel();
 $userob = new UsersModel();
+try {
+    $client = new Predis\Client(REDIS);
+} catch (Predis\Connection\ConnectionException $exc) {
+    echo $exc->getTraceAsString();
+    die( $exc->getMessage());
+}
+
 chkLogin(); $id=''; $state=''; $val=''; $msg=''; $data=array();
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     if (isset($_POST) && !empty($_POST)) {
@@ -27,7 +36,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             $val = intval($_POST['val']);
             $data['val'] = $val;
         }
-        if ($sensorob->updateSensor($data)) {
+        if ($client->lpush('project', serialize($data)) && $sensorob->updateSensor($data)) {
             $devices= $userob->getDevices();
             $firebase= new Firebase();
             $firebase->send($devices, $data);
