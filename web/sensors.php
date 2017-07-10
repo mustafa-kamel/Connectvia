@@ -14,9 +14,10 @@ try {
     die( $exc->getMessage());
 }
 
-chkLogin(); $id=''; $state=''; $val=''; $msg=''; $data=array();
+chkLogin();
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     if (isset($_POST) && !empty($_POST)) {
+        $id=''; $state=''; $val=''; $msg=''; $data=array();
         if (isset($_POST['id']) && !empty($_POST['id'])) {
             $id = intval($_POST['id']);
             $data['sid'] = $id;

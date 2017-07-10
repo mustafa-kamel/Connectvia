@@ -27,6 +27,15 @@ function chkLogin(){
         System::RedirectTo('login.php');
     }
 }
+/**
+ * check if the user isn't admin then redirect him to home login page
+ */
+function chkAdmin(){
+    chkLogin();
+    if (!isset($_SESSION['is_admin']) || $_SESSION['is_admin'] != 1) {
+        System::RedirectTo('index.php');
+    }
+}
 //header("HTTP/1.0 404 Not Found");
 //        $email= filter_input(INPUT_POST, $_POST['email'], FILTER_SANITIZE_EMAIL);       
 //        $password= filter_var($_POST['password'], FILTER_VALIDATE_REGEXP, array( "options"=> array( "regexp" => "/.{6,25}/")));
