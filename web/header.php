@@ -21,20 +21,21 @@
     <div>
         <nav class="navbar navbar-default navigation-clean-button">
             <div class="container">
-                <div class="navbar-header"><a class="navbar-brand" href="#">CSE2017 Mr. Home</a>
+                <div class="navbar-header"><a class="navbar-brand" href="index.php">CSE2017 Mr. Home</a>
                     <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
                 </div>
                 <div class="collapse navbar-collapse" id="navcol-1">
                     <ul class="nav navbar-nav">
-                        <li class="active" role="presentation"><a href="#">Home</a></li>
+                        <li role="presentation"><a href="index.php">Home</a></li>
                         <li role="presentation"><a href="rooms.php">Rooms</a></li>
-                        <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" href="#">Others<span class="caret"></span></a>
+<?php if (isset($_SESSION['is_admin']) && $_SESSION['is_admin'] == 1){
+                    echo '<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" href="#">Others<span class="caret"></span></a>
                             <ul class="dropdown-menu" role="menu">
                                 <li role="presentation"><a href="user.php?type=new">New Users</a></li>
                                 <li role="presentation"><a href="user.php?type=all">All Users</a></li>
                                 <li role="presentation"><a href="user.php?type=admin">Admins</a></li>
                             </ul>
-                        </li>
+                        </li>';}?>
                     </ul>
                     <p class="navbar-text navbar-right actions" style="padding-right: 80px;"><a class="btn btn-default action-button" role="button" href="logout.php">Log out</a></p>
                 </div>

@@ -8,7 +8,7 @@
 
             <div class="link-blue selected">
 
-                <a href="#">
+                <a href="index.php">
                     <i class="fa fa-home"></i>Home
                 </a>
 
