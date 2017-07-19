@@ -16,7 +16,7 @@ class SensorsModel {
     }
 
     /**
-     * Get one sensor [sigle row] data from `sensors` table
+     * Get one sensor [single row] data from `sensors` table
      * @param integer $sid
      * @return array
      */
@@ -65,7 +65,7 @@ class SensorsModel {
     }
 
     /**
-     * Get states (and values if exists) of sensors in specific room [array of rows] from children tables
+     * Get states (and values if exist) of sensors in specific room [array of rows] from children tables
      * useful to get states and values of sensors using its sid after getting data of the sensors from `sensors` table 
      * @param integer $rid
      * @return array
@@ -83,7 +83,7 @@ class SensorsModel {
     }
 
     /**
-     * Get states (and values if exists) of sensors in specific floor [array of rows] from children tables
+     * Get states (and values if exist) of sensors in specific floor [array of rows] from children tables
      * useful to get states and values of sensors using its sid after getting data of the sensors from `sensors` table 
      * @param integer $fid
      * @return array
@@ -101,7 +101,7 @@ class SensorsModel {
     }
 
     /**
-     * Get states (and values if exists) of sensors of specific type [array of rows] from children tables
+     * Get states (and values if exist) of sensors of specific type [array of rows] from children tables
      * useful to get states and values of sensors of specific type at once
      * @param string $sensorType
      * @return array
