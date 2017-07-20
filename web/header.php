@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CSE2017 - <?php echo TITLE; ?></title>
+    <link rel="icon" href="assets/images/icon.png">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/Basic-Header.css">
     <link rel="stylesheet" href="assets/css/custom.css">
@@ -28,7 +29,7 @@
                     <ul class="nav navbar-nav">
                         <li role="presentation"><a href="index.php">Home</a></li>
                         <li role="presentation"><a href="rooms.php">Rooms</a></li>
-<?php if (isset($_SESSION['is_admin']) && $_SESSION['is_admin'] == 1){
+                        <?php if (isset($_SESSION['is_admin']) && $_SESSION['is_admin'] == 1){
                     echo '<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" href="#">Others<span class="caret"></span></a>
                             <ul class="dropdown-menu" role="menu">
                                 <li role="presentation"><a href="user.php?type=new">New Users</a></li>
@@ -44,5 +45,3 @@
     </div>
 
     <!--Content-->
-
-                

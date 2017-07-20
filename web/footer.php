@@ -8,7 +8,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <p>Copyright &copy; 2017. Coded by <a href="https://www.facebook.com/Eidarous">Eidarous</a></p>
+                   <p>Copyright &copy; 2017 - All Rights Reserved - Connectvia Team<!--Coded by <a href="https://www.facebook.com/Eidarous">Eidarous</a>--></p>
                 </div>
             </div>
         </div>
