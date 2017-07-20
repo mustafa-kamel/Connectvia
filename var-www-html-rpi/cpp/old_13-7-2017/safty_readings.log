@@ -1,0 +1,2823 @@
+Mon Jul 10 10:16:47 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.73216
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 22.6982
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.14174
+gas state: 1
+fire Voltage: 4.56989
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Mon Jul 10 10:16:47 2017
+read request was sent to SLV2
+light Voltage 2: 3.5044
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: -3.78827
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 43%
+temperature Outside 2: 22C
+runtime: 43346
+-----------------------------------------
+*****************************************
+Mon Jul 10 10:17:09 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.7566
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 23.0507
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.136852
+gas state: 1
+fire Voltage: 4.60411
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Mon Jul 10 10:17:09 2017
+read request was sent to SLV2
+light Voltage 2: 3.5044
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: -3.78827
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 1
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 43%
+temperature Outside 2: 22C
+runtime: 41674
+-----------------------------------------
+*****************************************
+Mon Jul 10 10:17:29 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.75171
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 22.9626
+tempreature Reference: 25
+fan State: 0
+heater State: 0
+gas Voltage: 0.136852
+gas state: 1
+fire Voltage: 4.58944
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Mon Jul 10 10:17:29 2017
+read request was sent to SLV2
+light Voltage 2: 3.49951
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: -3.67221
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 42%
+temperature Outside 2: 22C
+runtime: 35993
+-----------------------------------------
+*****************************************
+Mon Jul 10 10:31:26 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.78104
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 19.5406
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.14174
+gas state: 1
+fire Voltage: 4.59922
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Mon Jul 10 10:31:26 2017
+read request was sent to SLV2
+light Voltage 2: 3.46041
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: -7.31696
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 40%
+temperature Outside 2: 25C
+runtime: 41594
+-----------------------------------------
+*****************************************
+Mon Jul 10 10:31:51 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.79081
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 19.5406
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.14174
+gas state: 1
+fire Voltage: 4.59922
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Mon Jul 10 10:31:51 2017
+read request was sent to SLV2
+light Voltage 2: 3.46041
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: -7.44492
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 40%
+temperature Outside 2: 25C
+runtime: 44475
+-----------------------------------------
+*****************************************
+Mon Jul 10 10:32:03 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.81036
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 19.4531
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.136852
+gas state: 1
+fire Voltage: 4.60411
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Mon Jul 10 10:32:03 2017
+read request was sent to SLV2
+light Voltage 2: 3.28935
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: -7.44492
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 40%
+temperature Outside 2: 25C
+runtime: 36695
+-----------------------------------------
+*****************************************
+Mon Jul 10 10:32:15 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.78104
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 19.3656
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.14174
+gas state: 1
+fire Voltage: 4.59922
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Mon Jul 10 10:32:15 2017
+read request was sent to SLV2
+light Voltage 2: 3.46041
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: -7.57339
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 40%
+temperature Outside 2: 25C
+runtime: 37349
+-----------------------------------------
+*****************************************
+Mon Jul 10 10:33:54 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.79081
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 19.3656
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.136852
+gas state: 1
+fire Voltage: 4.60411
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Mon Jul 10 10:33:54 2017
+read request was sent to SLV2
+light Voltage 2: 3.46041
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: -7.70233
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 40%
+temperature Outside 2: 25C
+runtime: 40927
+-----------------------------------------
+*****************************************
+Mon Jul 10 10:34:14 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.79081
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 19.2781
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.136852
+gas state: 1
+fire Voltage: 4.60411
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Mon Jul 10 10:34:14 2017
+read request was sent to SLV2
+light Voltage 2: 3.46041
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: -7.70233
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 40%
+temperature Outside 2: 25C
+runtime: 39451
+-----------------------------------------
+*****************************************
+Mon Jul 10 10:35:34 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.77126
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 19.1907
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.14174
+gas state: 1
+fire Voltage: 4.58944
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Mon Jul 10 10:35:34 2017
+read request was sent to SLV2
+light Voltage 2: 3.45552
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: -7.83176
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 40%
+temperature Outside 2: 25C
+runtime: 36729
+-----------------------------------------
+*****************************************
+Mon Jul 10 16:45:25 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.62659
+reference Voltage: 4.5
+light State: 0
+tempreature Celcius: 18.6657
+tempreature Reference: 16
+fan State: 1
+heater State: 0
+gas Voltage: 0.185728
+gas state: 1
+fire Voltage: 4.68231
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Mon Jul 10 16:45:25 2017
+failed to send request to SLV2
+runtime: 98068
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 1
+failed to send request to SLV2
+runtime: 162847
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 2
+failed to send request to SLV2
+runtime: 227956
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 3
+failed to send request to SLV2
+runtime: 259165
+-----------------------------------------
+failed to send request to SLV2
+runtime: 260445
+-----------------------------------------
+*****************************************
+Mon Jul 10 16:45:54 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.15249
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 18.6657
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.180841
+gas state: 1
+fire Voltage: 4.69208
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Mon Jul 10 16:45:54 2017
+read request was sent to SLV2
+light Voltage 2: 2.50244
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: -7.57339
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 48%
+temperature Outside 2: 26C
+runtime: 78926
+-----------------------------------------
+*****************************************
+Mon Jul 10 16:46:11 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.17204
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 18.5782
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.180841
+gas state: 1
+fire Voltage: 4.68719
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Mon Jul 10 16:46:11 2017
+read request was sent to SLV2
+light Voltage 2: 2.51222
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: -7.83176
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 47%
+temperature Outside 2: 26C
+runtime: 47793
+-----------------------------------------
+*****************************************
+Mon Jul 10 16:46:15 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.13294
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 18.5782
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.180841
+gas state: 1
+fire Voltage: 4.68719
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Mon Jul 10 16:46:15 2017
+read request was sent to SLV2
+light Voltage 2: 2.50733
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: -7.83176
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 47%
+temperature Outside 2: 26C
+runtime: 47351
+-----------------------------------------
+*****************************************
+Mon Jul 10 16:46:29 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.13783
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 18.5782
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.180841
+gas state: 1
+fire Voltage: 4.69208
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Mon Jul 10 16:46:29 2017
+read request was sent to SLV2
+light Voltage 2: 2.51711
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: -7.96167
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 47%
+temperature Outside 2: 26C
+runtime: 47507
+-----------------------------------------
+*****************************************
+Mon Jul 10 16:46:31 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.15249
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 18.5782
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.180841
+gas state: 1
+fire Voltage: 4.69208
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Mon Jul 10 16:46:31 2017
+read request was sent to SLV2
+light Voltage 2: 2.51222
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: -7.83176
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 47%
+temperature Outside 2: 26C
+runtime: 46589
+-----------------------------------------
+*****************************************
+Mon Jul 10 16:46:36 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.15738
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 18.5782
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.185728
+gas state: 1
+fire Voltage: 4.69208
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Mon Jul 10 16:46:36 2017
+read request was sent to SLV2
+light Voltage 2: 2.50733
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: -7.96167
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 47%
+temperature Outside 2: 26C
+runtime: 120756
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:12:22 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.83969
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 17.5277
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.136852
+gas state: 1
+fire Voltage: 4.68231
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:12:22 2017
+read request was sent to SLV2
+light Voltage 2: 2.52688
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 19.2781
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 41%
+temperature Outside 2: 30C
+runtime: 40046
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:12:26 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.84457
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 17.5277
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.14174
+gas state: 1
+fire Voltage: 4.68231
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:12:26 2017
+read request was sent to SLV2
+light Voltage 2: 2.53666
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 19.3656
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 1
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 41%
+temperature Outside 2: 30C
+runtime: 60794
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:12:30 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.82502
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 17.5277
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.136852
+gas state: 1
+fire Voltage: 4.68231
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:12:30 2017
+read request was sent to SLV2
+light Voltage 2: 2.52688
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 19.3656
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 1
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 41%
+temperature Outside 2: 30C
+runtime: 43281
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:12:34 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.81036
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 17.5277
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.14174
+gas state: 1
+fire Voltage: 4.67742
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:12:34 2017
+read request was sent to SLV2
+light Voltage 2: 2.53666
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 19.2781
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 1
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 41%
+temperature Outside 2: 30C
+runtime: 145861
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:12:38 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.1085
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 17.5277
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.14174
+gas state: 1
+fire Voltage: 4.67742
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:12:38 2017
+read request was sent to SLV2
+light Voltage 2: 2.52688
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 19.1031
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 41%
+temperature Outside 2: 30C
+runtime: 43910
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:13:01 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.82014
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 17.6153
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.14174
+gas state: 1
+fire Voltage: 4.68719
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:13:01 2017
+read request was sent to SLV2
+light Voltage 2: 2.52688
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 19.2781
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 1
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 41%
+temperature Outside 2: 30C
+runtime: 37151
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:13:05 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.83969
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 17.6153
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.136852
+gas state: 1
+fire Voltage: 4.68719
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:13:05 2017
+read request was sent to SLV2
+light Voltage 2: 2.52688
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 19.4531
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 1
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 41%
+temperature Outside 2: 30C
+runtime: 42962
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:13:09 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.86901
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 17.6153
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.14174
+gas state: 1
+fire Voltage: 4.68231
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:13:09 2017
+read request was sent to SLV2
+light Voltage 2: 2.52199
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 19.5406
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 41%
+temperature Outside 2: 30C
+runtime: 40774
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:13:13 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.8739
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 17.6153
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.136852
+gas state: 1
+fire Voltage: 4.68719
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:13:13 2017
+read request was sent to SLV2
+light Voltage 2: 2.53177
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 19.5406
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 41%
+temperature Outside 2: 30C
+runtime: 45924
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:13:16 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.85924
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 17.6153
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.136852
+gas state: 1
+fire Voltage: 4.68231
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:13:16 2017
+read request was sent to SLV2
+light Voltage 2: 2.52688
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 19.5406
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 1
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 41%
+temperature Outside 2: 30C
+runtime: 45269
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:22:19 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.5826
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 20.2408
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.102639
+gas state: 1
+fire Voltage: 5
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:22:19 2017
+read request was sent to SLV2
+light Voltage 2: 2.72727
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 21.2922
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 1
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 42%
+temperature Outside 2: 30C
+runtime: 275181
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:22:24 2017
+*****************************************
+read request was sent to SLV1
+failed to rececive light Voltage (timeout)
+failed to rececive reference Voltage (timeout)
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 1
+Tue Jul 11 16:23:59 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.97165
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 20.2408
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.107527
+gas state: 1
+fire Voltage: 5
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:23:59 2017
+read request was sent to SLV2
+light Voltage 2: 2.7566
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 22.1702
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 1
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 41%
+temperature Outside 2: 30C
+runtime: 38775
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:24:03 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.9912
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 20.2408
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.102639
+gas state: 1
+fire Voltage: 5
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:24:03 2017
+read request was sent to SLV2
+light Voltage 2: 2.75171
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 22.2582
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 1
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 42%
+temperature Outside 2: 30C
+runtime: 45237
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:24:07 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.97165
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 20.2408
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.102639
+gas state: 1
+fire Voltage: 5
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:24:07 2017
+read request was sent to SLV2
+light Voltage 2: 2.7566
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 22.2582
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 41%
+temperature Outside 2: 30C
+runtime: 36938
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:24:11 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 2.97165
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 20.2408
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.107527
+gas state: 1
+fire Voltage: 5
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:24:11 2017
+read request was sent to SLV2
+light Voltage 2: 2.76149
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 22.3461
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 41%
+temperature Outside 2: 30C
+runtime: 43271
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:24:14 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.00098
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 20.2408
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.107527
+gas state: 1
+fire Voltage: 5
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:24:14 2017
+read request was sent to SLV2
+light Voltage 2: 2.77126
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 22.3461
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 1
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 41%
+temperature Outside 2: 30C
+runtime: 39801
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:27:56 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.47996
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 19.8907
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.249267
+gas state: 1
+fire Voltage: 5
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:27:56 2017
+read request was sent to SLV2
+light Voltage 2: 2.62952
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 19.7156
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 43%
+temperature Outside 2: 30C
+runtime: 41197
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:28:00 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.39687
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 19.8907
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.254154
+gas state: 1
+fire Voltage: 5
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:28:00 2017
+read request was sent to SLV2
+light Voltage 2: 2.62952
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 19.8032
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 43%
+temperature Outside 2: 30C
+runtime: 50394
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:28:03 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.42131
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 19.8907
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.259042
+gas state: 1
+fire Voltage: 5
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:28:03 2017
+read request was sent to SLV2
+light Voltage 2: 2.63441
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 19.8907
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 43%
+temperature Outside 2: 30C
+runtime: 36925
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:28:06 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.42131
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 19.8907
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.268817
+gas state: 1
+fire Voltage: 5
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:28:06 2017
+read request was sent to SLV2
+light Voltage 2: 2.62463
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 19.9781
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 43%
+temperature Outside 2: 30C
+runtime: 36808
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:28:10 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.36755
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 19.8907
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.268817
+gas state: 1
+fire Voltage: 5
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:28:10 2017
+read request was sent to SLV2
+light Voltage 2: 2.69306
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 21.9066
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 43%
+temperature Outside 2: 30C
+runtime: 43375
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:28:13 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.3871
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 19.8907
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.28348
+gas state: 1
+fire Voltage: 5
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:28:13 2017
+read request was sent to SLV2
+light Voltage 2: 2.74682
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 21.8188
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 1
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 42%
+temperature Outside 2: 30C
+runtime: 43545
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:28:17 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 4.30596
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 19.8907
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.307918
+gas state: 1
+fire Voltage: 5
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:28:17 2017
+read request was sent to SLV2
+light Voltage 2: 2.76149
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 22.1702
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 42%
+temperature Outside 2: 30C
+runtime: 41133
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:39:17 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.90029
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 18.9282
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.131965
+gas state: 1
+fire Voltage: 4.90714
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:39:17 2017
+read request was sent to SLV2
+light Voltage 2: 2.78104
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 20.8539
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 1
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 41%
+temperature Outside 2: 30C
+runtime: 39153
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:39:43 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.67546
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 19.0157
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.127077
+gas state: 1
+fire Voltage: 4.89736
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:39:43 2017
+read request was sent to SLV2
+light Voltage 2: 2.80547
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 20.8539
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 1
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 41%
+temperature Outside 2: 30C
+runtime: 39560
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:40:23 2017
+*****************************************
+failed to send request to SLV1
+runtime: 90843
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 1
+failed to send request to SLV1
+runtime: 134548
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 2
+failed to send request to SLV1
+runtime: 176110
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 3
+failed to send request to SLV1
+runtime: 213990
+-----------------------------------------
+failed to send request to SLV1 after 4 attempts
+runtime: 214642
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:40:34 2017
+*****************************************
+failed to send request to SLV1
+runtime: 90062
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 1
+failed to send request to SLV1
+runtime: 131387
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 2
+failed to send request to SLV1
+runtime: 172447
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 3
+failed to send request to SLV1
+runtime: 215686
+-----------------------------------------
+failed to send request to SLV1 after 4 attempts
+runtime: 216337
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:40:50 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.739
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 19.5406
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.0782014
+gas state: 1
+fire Voltage: 4.9218
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:40:50 2017
+read request was sent to SLV2
+light Voltage 2: 2.43402
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 17.8781
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 43%
+temperature Outside 2: 30C
+runtime: 560121
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:41:56 2017
+*****************************************
+failed to send request to SLV1
+runtime: 90777
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 1
+failed to send request to SLV1
+runtime: 134362
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 2
+failed to send request to SLV1
+runtime: 177347
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 3
+failed to send request to SLV1
+runtime: 220242
+-----------------------------------------
+failed to send request to SLV1 after 4 attempts
+runtime: 220923
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:42:02 2017
+*****************************************
+failed to send request to SLV1
+runtime: 90789
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 1
+failed to send request to SLV1
+runtime: 132085
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 2
+failed to send request to SLV1
+runtime: 173568
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 3
+failed to send request to SLV1
+runtime: 215147
+-----------------------------------------
+failed to send request to SLV1 after 4 attempts
+runtime: 215923
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:42:14 2017
+*****************************************
+failed to send request to SLV1
+runtime: 91265
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 1
+failed to send request to SLV1
+runtime: 131727
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 2
+failed to send request to SLV1
+runtime: 173008
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 3
+failed to send request to SLV1
+runtime: 214962
+-----------------------------------------
+failed to send request to SLV1 after 4 attempts
+runtime: 215565
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:42:25 2017
+*****************************************
+failed to send request to SLV1
+runtime: 90855
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 1
+failed to send request to SLV1
+runtime: 132672
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 2
+failed to send request to SLV1
+runtime: 174200
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 3
+failed to send request to SLV1
+runtime: 211367
+-----------------------------------------
+failed to send request to SLV1 after 4 attempts
+runtime: 212431
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:43:14 2017
+*****************************************
+failed to send request to SLV1
+runtime: 90715
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 1
+failed to send request to SLV1
+runtime: 131039
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 2
+failed to send request to SLV1
+runtime: 172137
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 3
+failed to send request to SLV1
+runtime: 214589
+-----------------------------------------
+failed to send request to SLV1 after 4 attempts
+runtime: 215225
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:43:37 2017
+*****************************************
+failed to send request to SLV1
+runtime: 90638
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 1
+failed to send request to SLV1
+runtime: 127486
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 2
+failed to send request to SLV1
+runtime: 169004
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 3
+failed to send request to SLV1
+runtime: 211582
+-----------------------------------------
+failed to send request to SLV1 after 4 attempts
+runtime: 212211
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:43:42 2017
+*****************************************
+failed to send request to SLV1
+runtime: 90983
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 1
+failed to send request to SLV1
+runtime: 132147
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 2
+failed to send request to SLV1
+runtime: 172522
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 3
+failed to send request to SLV1
+runtime: 215246
+-----------------------------------------
+failed to send request to SLV1 after 4 attempts
+runtime: 215865
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:43:51 2017
+*****************************************
+failed to send request to SLV1
+runtime: 84113
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 1
+failed to send request to SLV1
+runtime: 118051
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 2
+failed to send request to SLV1
+runtime: 156014
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 3
+failed to send request to SLV1
+runtime: 189955
+-----------------------------------------
+failed to send request to SLV1 after 4 attempts
+runtime: 190604
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:44:44 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.74389
+reference Voltage: 3
+light State: 1
+tempreature Celcius: 20.6786
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.234604
+gas state: 1
+fire Voltage: 4.72629
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:44:44 2017
+read request was sent to SLV2
+light Voltage 2: 2.43402
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 18.6657
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 1
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 41%
+temperature Outside 2: 25C
+runtime: 133036
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:46:37 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.13294
+reference Voltage: 5
+light State: 0
+tempreature Celcius: 21.0291
+tempreature Reference: 21
+fan State: 0
+heater State: 0
+gas Voltage: 0.224829
+gas state: 1
+fire Voltage: 4.72629
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:46:37 2017
+read request was sent to SLV2
+failed to rececive light Voltage 2 (timeout)
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 1
+read request was sent to SLV2
+light Voltage 2: 2.45357
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 18.6657
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 43%
+temperature Outside 2: 28C
+runtime: 458750
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:46:45 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.11828
+reference Voltage: 5
+light State: 0
+tempreature Celcius: 20.9415
+tempreature Reference: 21
+fan State: 0
+heater State: 0
+gas Voltage: 0.224829
+gas state: 1
+fire Voltage: 4.73118
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:46:45 2017
+read request was sent to SLV2
+light Voltage 2: 2.45357
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 19.0157
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 42%
+temperature Outside 2: 28C
+runtime: 36228
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:46:51 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.13294
+reference Voltage: 5
+light State: 0
+tempreature Celcius: 20.8539
+tempreature Reference: 21
+fan State: 0
+heater State: 0
+gas Voltage: 0.224829
+gas state: 1
+fire Voltage: 4.72629
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:46:51 2017
+read request was sent to SLV2
+light Voltage 2: 2.43891
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 18.5782
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 41%
+temperature Outside 2: 24C
+runtime: 43229
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:46:56 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.14272
+reference Voltage: 5
+light State: 0
+tempreature Celcius: 20.8539
+tempreature Reference: 21
+fan State: 0
+heater State: 0
+gas Voltage: 0.224829
+gas state: 1
+fire Voltage: 4.72629
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:46:56 2017
+read request was sent to SLV2
+light Voltage 2: 2.45357
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 18.2282
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 42%
+temperature Outside 2: 28C
+runtime: 46593
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:46:58 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.11339
+reference Voltage: 5
+light State: 0
+tempreature Celcius: 20.8539
+tempreature Reference: 21
+fan State: 0
+heater State: 0
+gas Voltage: 0.219941
+gas state: 1
+fire Voltage: 4.72629
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:46:58 2017
+read request was sent to SLV2
+light Voltage 2: 2.44868
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 19.1031
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 42%
+temperature Outside 2: 28C
+runtime: 198439
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:47:02 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 4.14467
+reference Voltage: 5
+light State: 0
+tempreature Celcius: 20.8539
+tempreature Reference: 21
+fan State: 0
+heater State: 0
+gas Voltage: 0.219941
+gas state: 1
+fire Voltage: 4.70674
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:47:02 2017
+read request was sent to SLV2
+light Voltage 2: 2.45357
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 19.0157
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 42%
+temperature Outside 2: 28C
+runtime: 39655
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:47:05 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 4.15934
+reference Voltage: 5
+light State: 0
+tempreature Celcius: 20.8539
+tempreature Reference: 21
+fan State: 0
+heater State: 0
+gas Voltage: 0.219941
+gas state: 1
+fire Voltage: 4.71652
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:47:05 2017
+read request was sent to SLV2
+light Voltage 2: 2.45846
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 18.8407
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 1
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 41%
+temperature Outside 2: 24C
+runtime: 43789
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:47:18 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.13294
+reference Voltage: 5
+light State: 0
+tempreature Celcius: 21.0291
+tempreature Reference: 21
+fan State: 0
+heater State: 0
+gas Voltage: 0.219941
+gas state: 1
+fire Voltage: 4.74096
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:47:18 2017
+read request was sent to SLV2
+light Voltage 2: 2.44868
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 18.8407
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 42%
+temperature Outside 2: 28C
+runtime: 44229
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:47:42 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.09384
+reference Voltage: 5
+light State: 0
+tempreature Celcius: 21.2922
+tempreature Reference: 21
+fan State: 0
+heater State: 0
+gas Voltage: 0.219941
+gas state: 1
+fire Voltage: 4.74585
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:47:42 2017
+read request was sent to SLV2
+light Voltage 2: 2.44379
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 19.1031
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 1
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 41%
+temperature Outside 2: 24C
+runtime: 39056
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:47:47 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 3.1085
+reference Voltage: 5
+light State: 0
+tempreature Celcius: 21.2045
+tempreature Reference: 21
+fan State: 0
+heater State: 0
+gas Voltage: 0.219941
+gas state: 1
+fire Voltage: 4.74585
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 16:47:47 2017
+read request was sent to SLV2
+light Voltage 2: 2.44868
+reference Voltage 2: 3
+light State 2: 0
+tempreature Celcius 2: 19.3656
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 42%
+temperature Outside 2: 28C
+runtime: 40844
+-----------------------------------------
+*****************************************
+Tue Jul 11 17:17:22 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 0.943304
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 16.4754
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.0684262
+gas state: 1
+fire Voltage: 1.91105
+fire State: 1
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 17:17:22 2017
+failed to send request to SLV2
+runtime: 73776
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 1
+failed to send request to SLV2
+runtime: 119380
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 2
+failed to send request to SLV2
+runtime: 165165
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 3
+failed to send request to SLV2
+runtime: 213877
+-----------------------------------------
+failed to send request to SLV2
+runtime: 214870
+-----------------------------------------
+*****************************************
+Tue Jul 11 17:17:41 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 0.840665
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 16.4754
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.0684262
+gas state: 1
+fire Voltage: 1.02639
+fire State: 1
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 17:17:41 2017
+failed to send request to SLV2
+runtime: 59813
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 1
+failed to send request to SLV2
+runtime: 104482
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 2
+failed to send request to SLV2
+runtime: 147495
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 3
+failed to send request to SLV2
+runtime: 187352
+-----------------------------------------
+failed to send request to SLV2
+runtime: 188333
+-----------------------------------------
+*****************************************
+Tue Jul 11 17:18:19 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 0.786901
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 16.2998
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.0684262
+gas state: 1
+fire Voltage: 1.82796
+fire State: 1
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 17:18:19 2017
+failed to send request to SLV2
+runtime: 60018
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 1
+failed to send request to SLV2
+runtime: 103551
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 2
+failed to send request to SLV2
+runtime: 151743
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 3
+failed to send request to SLV2
+runtime: 196876
+-----------------------------------------
+failed to send request to SLV2
+runtime: 197954
+-----------------------------------------
+*****************************************
+Tue Jul 11 17:18:40 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 0.713587
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 16.4754
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.0733138
+gas state: 1
+fire Voltage: 0.99218
+fire State: 1
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 17:18:40 2017
+failed to send request to SLV2
+runtime: 71534
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 1
+failed to send request to SLV2
+runtime: 114961
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 2
+failed to send request to SLV2
+runtime: 157670
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 3
+failed to send request to SLV2
+runtime: 202266
+-----------------------------------------
+failed to send request to SLV2
+runtime: 203241
+-----------------------------------------
+*****************************************
+Tue Jul 11 17:20:22 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 0.811339
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 16.5632
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.0684262
+gas state: 1
+fire Voltage: 1.98436
+fire State: 1
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 17:20:22 2017
+failed to send request to SLV2
+runtime: 64076
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 1
+failed to send request to SLV2
+runtime: 104619
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 2
+failed to send request to SLV2
+runtime: 147853
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 3
+failed to send request to SLV2
+runtime: 191216
+-----------------------------------------
+failed to send request to SLV2
+runtime: 192257
+-----------------------------------------
+*****************************************
+Tue Jul 11 17:29:17 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 1.06549
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 16.2998
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.0977517
+gas state: 1
+fire Voltage: 1.86217
+fire State: 1
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 17:29:17 2017
+failed to send request to SLV2
+runtime: 61826
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 1
+failed to send request to SLV2
+runtime: 108972
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 2
+failed to send request to SLV2
+runtime: 153268
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 3
+failed to send request to SLV2
+runtime: 200308
+-----------------------------------------
+failed to send request to SLV2
+runtime: 201424
+-----------------------------------------
+*****************************************
+Tue Jul 11 17:43:12 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 1.04594
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 16.3877
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.102639
+gas state: 1
+fire Voltage: 2.07234
+fire State: 1
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 17:43:12 2017
+read request was sent to SLV2
+light Voltage 2: 4.39883
+reference Voltage 2: 3
+light State 2: 1
+tempreature Celcius 2: -71.0784
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 51%
+temperature Outside 2: 30C
+runtime: 66604
+-----------------------------------------
+*****************************************
+Tue Jul 11 17:59:10 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 0.684262
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 16.1241
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.0977517
+gas state: 1
+fire Voltage: 1.36852
+fire State: 1
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 17:59:10 2017
+read request was sent to SLV2
+light Voltage 2: 4.3304
+reference Voltage 2: 3
+light State 2: 1
+tempreature Celcius 2: -71.0784
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 49%
+temperature Outside 2: 30C
+runtime: 36597
+-----------------------------------------
+*****************************************
+Tue Jul 11 17:59:43 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 0.752688
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 16.2119
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.0977517
+gas state: 1
+fire Voltage: 1.43695
+fire State: 1
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 17:59:43 2017
+read request was sent to SLV2
+light Voltage 2: 4.3304
+reference Voltage 2: 3
+light State 2: 1
+tempreature Celcius 2: -71.0784
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 49%
+temperature Outside 2: 30C
+runtime: 36451
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:14:34 2017
+*****************************************
+failed to send request to SLV1
+runtime: 57088
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 1
+failed to send request to SLV1
+runtime: 96885
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 2
+failed to send request to SLV1
+runtime: 137149
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 3
+failed to send request to SLV1
+runtime: 181582
+-----------------------------------------
+failed to send request to SLV1 after 4 attempts
+runtime: 182159
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:14:59 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 1.25122
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 16.3877
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.12219
+gas state: 1
+fire Voltage: 3.57282
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 19:14:59 2017
+read request was sent to SLV2
+light Voltage 2: 4.06158
+reference Voltage 2: 0.05
+light State 2: 1
+tempreature Celcius 2: -67.571
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 43%
+temperature Outside 2: 30C
+runtime: 59575
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:15:20 2017
+*****************************************
+failed to send request to SLV1
+runtime: 58089
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 1
+failed to send request to SLV1
+runtime: 102971
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 2
+read request was sent to SLV1
+light Voltage: 1.14369
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 16.4754
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.117302
+gas state: 1
+fire Voltage: 3.39687
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 19:15:20 2017
+read request was sent to SLV2
+failed to rececive light Voltage 2 (timeout)
+-----------------------------------------
+Reattempting to send request to SLV2. attempt number: 1
+read request was sent to SLV2
+light Voltage 2: 4.23265
+reference Voltage 2: 0.05
+light State 2: 1
+tempreature Celcius 2: -71.0784
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 43%
+temperature Outside 2: 30C
+runtime: 469327
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:16:49 2017
+*****************************************
+read request was sent to SLV1
+failed to rececive light Voltage (timeout)
+failed to rececive reference Voltage (timeout)
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 1
+Tue Jul 11 19:17:41 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 1.19746
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 16.4754
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.117302
+gas state: 1
+fire Voltage: 3.37732
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 19:17:41 2017
+read request was sent to SLV2
+light Voltage 2: 4.2522
+reference Voltage 2: 0.05
+light State 2: 1
+tempreature Celcius 2: -67.571
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 43%
+temperature Outside 2: 30C
+runtime: 43866
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:18:58 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 1.17302
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 16.4754
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.117302
+gas state: 1
+fire Voltage: 3.3871
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 19:18:58 2017
+read request was sent to SLV2
+light Voltage 2: 4.24731
+reference Voltage 2: 0.05
+light State 2: 1
+tempreature Celcius 2: -67.571
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 43%
+temperature Outside 2: 30C
+runtime: 47335
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:20:48 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 1.21212
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 16.3877
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.117302
+gas state: 1
+fire Voltage: 3.78299
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 19:20:48 2017
+read request was sent to SLV2
+light Voltage 2: 4.23265
+reference Voltage 2: 0.05
+light State 2: 1
+tempreature Celcius 2: -67.571
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 43%
+temperature Outside 2: 30C
+runtime: 39022
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:23:59 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 1.17302
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 16.2998
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.117302
+gas state: 1
+fire Voltage: 3.5435
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 19:23:59 2017
+read request was sent to SLV2
+light Voltage 2: 4.23265
+reference Voltage 2: 0.05
+light State 2: 1
+tempreature Celcius 2: -71.0784
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 43%
+temperature Outside 2: 30C
+runtime: 43304
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:24:51 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 1.17302
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 16.2119
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.112414
+gas state: 1
+fire Voltage: 3.55816
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 19:24:51 2017
+read request was sent to SLV2
+light Voltage 2: 4.23265
+reference Voltage 2: 0.05
+light State 2: 1
+tempreature Celcius 2: -67.571
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 43%
+temperature Outside 2: 30C
+runtime: 42626
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:26:18 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 1.19746
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 16.2119
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.117302
+gas state: 1
+fire Voltage: 3.47996
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 19:26:18 2017
+read request was sent to SLV2
+light Voltage 2: 4.24242
+reference Voltage 2: 0.05
+light State 2: 1
+tempreature Celcius 2: -64.782
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 43%
+temperature Outside 2: 30C
+runtime: 38053
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:27:16 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 1.1828
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 16.2119
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.112414
+gas state: 1
+fire Voltage: 3.48974
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 19:27:16 2017
+read request was sent to SLV2
+light Voltage 2: 4.24242
+reference Voltage 2: 0.05
+light State 2: 1
+tempreature Celcius 2: -64.782
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 42%
+temperature Outside 2: 30C
+runtime: 109131
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:28:38 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 1.19257
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 16.1241
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.112414
+gas state: 1
+fire Voltage: 3.47019
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 19:28:38 2017
+read request was sent to SLV2
+light Voltage 2: 4.23754
+reference Voltage 2: 0.05
+light State 2: 1
+tempreature Celcius 2: -64.782
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 42%
+temperature Outside 2: 30C
+runtime: 129374
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:32:41 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 1.21212
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 15.7723
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.107527
+gas state: 1
+fire Voltage: 3.42131
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 19:32:41 2017
+read request was sent to SLV2
+light Voltage 2: 4.22776
+reference Voltage 2: 0.05
+light State 2: 1
+tempreature Celcius 2: -67.571
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 42%
+temperature Outside 2: 30C
+runtime: 42435
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:33:32 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 1.25122
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 14.8909
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.112414
+gas state: 1
+fire Voltage: 0.679374
+fire State: 1
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 19:33:32 2017
+read request was sent to SLV2
+light Voltage 2: 4.23754
+reference Voltage 2: 0.05
+light State 2: 1
+tempreature Celcius 2: -67.571
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 42%
+temperature Outside 2: 30C
+runtime: 38741
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:35:04 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 1.3392
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 15.9482
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 3.89541
+gas state: 0
+fire Voltage: 2.99609
+fire State: 0
+waterleakage State: 1
+-----------------------------------------
+Tue Jul 11 19:35:04 2017
+read request was sent to SLV2
+light Voltage 2: 4.23754
+reference Voltage 2: 0.05
+light State 2: 1
+tempreature Celcius 2: -71.0784
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 42%
+temperature Outside 2: 30C
+runtime: 36542
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:35:48 2017
+*****************************************
+read request was sent to SLV1
+light Voltage: 1.27566
+reference Voltage: 3
+light State: 0
+tempreature Celcius: 15.9482
+tempreature Reference: 25
+fan State: 0
+heater State: 1
+gas Voltage: 0.215054
+gas state: 1
+fire Voltage: 0.430108
+fire State: 1
+waterleakage State: 0
+-----------------------------------------
+Tue Jul 11 19:35:48 2017
+read request was sent to SLV2
+light Voltage 2: 4.22287
+reference Voltage 2: 0.05
+light State 2: 1
+tempreature Celcius 2: -64.782
+tempreature Reference 2: 25
+fan State 2: 0
+heater State 2: 1
+PIR State: 0
+garage State 2: 0
+tv State 2: 0
+humidity Outside 2: 42%
+temperature Outside 2: 30C
+runtime: 109081
+-----------------------------------------
+*****************************************

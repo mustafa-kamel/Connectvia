@@ -1,0 +1,1355 @@
+Mon Jul 10 09:22:42 2017
+*****************************************
+server sent tv State: 0
+sending mode: tvOff
+Mon Jul 10 09:42:41 2017
+*****************************************
+server sent tv State: 0
+sending mode: tvOff
+incoming: ACK
+runtime: 23956
+-----------------------------------------
+*****************************************
+Mon Jul 10 09:43:03 2017
+*****************************************
+server sent tv State: 0
+sending mode: tvOff
+incoming: ACK
+runtime: 23937
+-----------------------------------------
+*****************************************
+Mon Jul 10 09:43:12 2017
+*****************************************
+server sent tv State: 0
+sending mode: tvOff
+incoming: ACK
+runtime: 23927
+-----------------------------------------
+*****************************************
+Mon Jul 10 09:43:44 2017
+*****************************************
+server sent tv State: 1
+sending mode: tvOn
+incoming: ACK
+runtime: 26667
+-----------------------------------------
+*****************************************
+Mon Jul 10 09:43:49 2017
+*****************************************
+server sent tv State: 0
+sending mode: tvOff
+incoming: ACK
+runtime: 245757
+-----------------------------------------
+*****************************************
+Mon Jul 10 16:39:42 2017
+*****************************************
+server sent temperature reference: 16
+sending mode: tempReference
+timeout, failed to receive.
+in buffer: 
+runtime: 977447
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 1
+server sent temperature reference: 16
+sending mode: tempReference
+timeout, failed to receive.
+in buffer: 
+runtime: 1860939
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 2
+server sent temperature reference: 16
+sending mode: tempReference
+timeout, failed to receive.
+in buffer: 
+runtime: 2747563
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 3
+server sent temperature reference: 16
+sending mode: tempReference
+timeout, failed to receive.
+in buffer: 
+runtime: 3620185
+-----------------------------------------
+failed to send request to SLV1 after 4 attempts
+runtime: 3621154
+-----------------------------------------
+*****************************************
+Mon Jul 10 16:41:04 2017
+*****************************************
+server sent temperature reference: 16
+sending mode: tempReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 16
+write_success = 1
+runtime: 34234
+-----------------------------------------
+Mon Jul 10 16:41:10 2017
+*****************************************
+server sent on reference: 0
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0
+write_success = 1
+runtime: 34834
+-----------------------------------------
+Mon Jul 10 16:41:16 2017
+*****************************************
+server sent on reference: 5
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 5
+write_success = 1
+runtime: 33911
+-----------------------------------------
+Mon Jul 10 16:41:20 2017
+*****************************************
+server sent on reference: 3
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 3
+write_success = 1
+runtime: 33433
+-----------------------------------------
+Mon Jul 10 16:41:23 2017
+*****************************************
+server sent on reference: 3.5
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 3.5
+write_success = 1
+runtime: 37085
+-----------------------------------------
+Mon Jul 10 16:41:26 2017
+*****************************************
+server sent on reference: 4
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 4
+write_success = 1
+runtime: 34280
+-----------------------------------------
+Mon Jul 10 16:41:28 2017
+*****************************************
+server sent on reference: 4.5
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 4.5
+write_success = 1
+runtime: 34813
+-----------------------------------------
+Mon Jul 10 16:46:49 2017
+*****************************************
+server sent on reference: 5
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 5
+write_success = 1
+runtime: 37862
+-----------------------------------------
+Mon Jul 10 16:47:01 2017
+*****************************************
+server sent on reference: 5
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 5
+write_success = 1
+runtime: 50840
+-----------------------------------------
+Mon Jul 10 16:47:05 2017
+*****************************************
+server sent on reference: 0
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0
+write_success = 1
+runtime: 37764
+-----------------------------------------
+Mon Jul 10 16:47:24 2017
+*****************************************
+server sent on reference: 5
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 5
+write_success = 0
+runtime: 345362
+-----------------------------------------
+Mon Jul 10 16:47:27 2017
+*****************************************
+server sent on reference: 0
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0
+write_success = 1
+runtime: 37888
+-----------------------------------------
+Mon Jul 10 16:47:33 2017
+*****************************************
+server sent on reference: 5
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 5
+write_success = 1
+runtime: 33760
+-----------------------------------------
+Mon Jul 10 16:47:50 2017
+*****************************************
+server sent on reference: 5
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 5
+write_success = 1
+runtime: 35809
+-----------------------------------------
+Mon Jul 10 16:50:27 2017
+*****************************************
+server sent on reference: 0
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0
+write_success = 1
+runtime: 37734
+-----------------------------------------
+Mon Jul 10 16:50:29 2017
+*****************************************
+server sent on reference: 0
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0
+write_success = 1
+runtime: 38323
+-----------------------------------------
+Mon Jul 10 16:50:37 2017
+*****************************************
+server sent on reference: 5
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 5
+write_success = 1
+runtime: 37611
+-----------------------------------------
+Mon Jul 10 16:50:39 2017
+*****************************************
+server sent on reference: 5
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 5
+write_success = 1
+runtime: 38733
+-----------------------------------------
+Tue Jul 11 16:29:21 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 27646
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:29:21 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 37578
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:29:28 2017
+*****************************************
+server sent garage State: 0
+sending mode: closeGarageDoor
+incoming: ACK
+runtime: 4375875
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:29:28 2017
+*****************************************
+server sent garage State: 0
+sending mode: closeGarageDoor
+incoming: ACK
+runtime: 4502089
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:29:42 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 13442418
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:29:42 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 13585830
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:30:26 2017
+*****************************************
+server sent tv State: 0
+sending mode: tvOff
+incoming: ACK
+runtime: 45122
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:30:31 2017
+*****************************************
+server sent tv State: 1
+sending mode: tvOn
+incoming: ACK
+runtime: 28365
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:30:34 2017
+*****************************************
+server sent tv State: 0
+sending mode: tvOff
+incoming: ACK
+runtime: 58283
+-----------------------------------------
+*****************************************
+Tue Jul 11 16:46:25 2017
+*****************************************
+server sent on reference: 5
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 5
+write_success = 1
+runtime: 29971
+-----------------------------------------
+Tue Jul 11 16:46:28 2017
+*****************************************
+server sent temperature reference: 21
+sending mode: tempReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 21
+write_success = 1
+runtime: 29640
+-----------------------------------------
+Tue Jul 11 18:00:28 2017
+*****************************************
+server sent garage State: 0
+sending mode: closeGarageDoor
+incoming: ACK
+runtime: 8517443
+-----------------------------------------
+*****************************************
+Tue Jul 11 18:00:28 2017
+*****************************************
+server sent garage State: 0
+sending mode: closeGarageDoor
+incoming: ACK
+runtime: 8604521
+-----------------------------------------
+*****************************************
+Tue Jul 11 18:00:48 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 26120
+-----------------------------------------
+*****************************************
+Tue Jul 11 18:00:48 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 35484
+-----------------------------------------
+*****************************************
+Tue Jul 11 18:01:07 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 13290124
+-----------------------------------------
+*****************************************
+Tue Jul 11 18:01:07 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 13383104
+-----------------------------------------
+*****************************************
+Tue Jul 11 18:36:24 2017
+*****************************************
+server sent on reference: 12
+sending mode: lightReference
+timeout, failed to receive.
+in buffer: 
+runtime: 949219
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 1
+server sent on reference: 12
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 12
+write_success = 1
+runtime: 960010
+-----------------------------------------
+Tue Jul 11 18:37:18 2017
+*****************************************
+server sent on reference: 12
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 12
+write_success = 1
+runtime: 186634
+-----------------------------------------
+Tue Jul 11 18:42:15 2017
+*****************************************
+server sent on reference: 15
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 15
+write_success = 1
+runtime: 29684
+-----------------------------------------
+Tue Jul 11 18:42:17 2017
+*****************************************
+server sent on reference: 24
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 24
+write_success = 1
+runtime: 24990
+-----------------------------------------
+Tue Jul 11 18:43:05 2017
+*****************************************
+server sent on reference: 33
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 33
+write_success = 1
+runtime: 31093
+-----------------------------------------
+Tue Jul 11 18:43:15 2017
+*****************************************
+server sent on reference: 26
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 26
+write_success = 1
+runtime: 29587
+-----------------------------------------
+Tue Jul 11 18:43:17 2017
+*****************************************
+server sent on reference: 40
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 40
+write_success = 1
+runtime: 31760
+-----------------------------------------
+Tue Jul 11 18:43:19 2017
+*****************************************
+server sent on reference: 72
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 72
+write_success = 1
+runtime: 31906
+-----------------------------------------
+Tue Jul 11 18:43:25 2017
+*****************************************
+server sent on reference: 100
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 100
+write_success = 1
+runtime: 30080
+-----------------------------------------
+Tue Jul 11 18:43:37 2017
+*****************************************
+server sent on reference: 47
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 47
+write_success = 1
+runtime: 195807
+-----------------------------------------
+Tue Jul 11 18:45:17 2017
+*****************************************
+server sent on reference: 47
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 47
+write_success = 1
+runtime: 29762
+-----------------------------------------
+Tue Jul 11 18:48:59 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 244864
+-----------------------------------------
+Tue Jul 11 18:49:34 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 29394
+-----------------------------------------
+Tue Jul 11 18:49:46 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 30368
+-----------------------------------------
+Tue Jul 11 18:49:52 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 29467
+-----------------------------------------
+Tue Jul 11 18:50:04 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 29731
+-----------------------------------------
+Tue Jul 11 18:50:05 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 140379
+-----------------------------------------
+Tue Jul 11 18:54:38 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+timeout, failed to receive.
+in buffer: 
+runtime: 923252
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 1
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 930527
+-----------------------------------------
+Tue Jul 11 18:55:29 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 29937
+-----------------------------------------
+Tue Jul 11 18:55:36 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 29369
+-----------------------------------------
+Tue Jul 11 19:03:10 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 42408
+-----------------------------------------
+Tue Jul 11 19:04:07 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 23569
+-----------------------------------------
+Tue Jul 11 19:12:33 2017
+*****************************************
+server sent tv State: 0
+sending mode: tvOff
+incoming: ACK
+runtime: 23691
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:12:40 2017
+*****************************************
+server sent tv State: 1
+sending mode: tvOn
+incoming: ACK
+runtime: 22551
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:12:43 2017
+*****************************************
+server sent tv State: 0
+sending mode: tvOff
+incoming: ACK
+runtime: 22306
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:12:54 2017
+*****************************************
+server sent tv State: 0
+sending mode: tvOff
+incoming: ACK
+runtime: 23161
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:12:57 2017
+*****************************************
+server sent tv State: 1
+sending mode: tvOn
+incoming: ACK
+runtime: 22226
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:13:19 2017
+*****************************************
+server sent tv State: 0
+sending mode: tvOff
+incoming: ACK
+runtime: 22617
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:13:20 2017
+*****************************************
+server sent tv State: 1
+sending mode: tvOn
+incoming: ACK
+runtime: 22711
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:13:22 2017
+*****************************************
+server sent tv State: 0
+sending mode: tvOff
+incoming: ACK
+runtime: 22290
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:13:23 2017
+*****************************************
+server sent tv State: 1
+sending mode: tvOn
+incoming: ACK
+runtime: 23252
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:13:25 2017
+*****************************************
+server sent tv State: 0
+sending mode: tvOff
+incoming: ACK
+runtime: 22397
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:15:32 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 29756
+-----------------------------------------
+Tue Jul 11 19:15:38 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 29655
+-----------------------------------------
+Tue Jul 11 19:15:40 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 29107
+-----------------------------------------
+Tue Jul 11 19:37:24 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 96276
+-----------------------------------------
+Tue Jul 11 19:38:34 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 29227
+-----------------------------------------
+Tue Jul 11 19:38:48 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 23547
+-----------------------------------------
+Tue Jul 11 19:38:50 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 29697
+-----------------------------------------
+Tue Jul 11 19:38:52 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 29326
+-----------------------------------------
+Tue Jul 11 19:38:56 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 29430
+-----------------------------------------
+Tue Jul 11 19:39:14 2017
+*****************************************
+server sent on reference: 0.05
+sending mode: lightReference
+incoming: ACK
+received from Arduino ACK
+RPi: writing: 0.05
+write_success = 1
+runtime: 29086
+-----------------------------------------
+Tue Jul 11 19:39:27 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 239559
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:39:27 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 248959
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:39:32 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 26720
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:39:32 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 36418
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:39:35 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 26533
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:39:35 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 36241
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:39:53 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 28292
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:39:53 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 255183
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:39:58 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 26192
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:39:58 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 32730
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:39:59 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 29570
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:39:59 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 40215
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:00 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 24155
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:00 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 34375
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:01 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 26018
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:01 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 35954
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:03 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 121827
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:03 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 128543
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:04 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 26008
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:04 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 32989
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:05 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 25408
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:05 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 32366
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:06 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 26411
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:06 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 36423
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:08 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 27591
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:08 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 34970
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:09 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 35493
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:09 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 44806
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:10 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 22567
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:10 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 32468
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:12 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 30603
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:12 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 38197
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:13 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 23825
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:13 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 33784
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:15 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 24490
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:15 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 127994
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:16 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 26163
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:16 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 36659
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:17 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 26688
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:17 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 36716
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:19 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 54890
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:19 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 65107
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:20 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 23540
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:20 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 30455
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:22 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 26521
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:22 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 36093
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:23 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 27967
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:23 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 38171
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:29 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 31242
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:29 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 41103
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:31 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 23265
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:31 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 129642
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:33 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 27504
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:33 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 115755
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:34 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 23304
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:34 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 33362
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:36 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 27431
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:36 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 34705
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:37 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 24231
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:37 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 34120
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:39 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 27087
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:40:39 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 36691
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:41:05 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 26820
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:41:05 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 40427
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:41:41 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 13335894
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:41:41 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 13506286
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:41:56 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 27127
+-----------------------------------------
+*****************************************
+Tue Jul 11 19:41:56 2017
+*****************************************
+server sent garage State: 1
+sending mode: openGarageDoor
+incoming: ACK
+runtime: 36943
+-----------------------------------------
+*****************************************

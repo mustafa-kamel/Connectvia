@@ -1,0 +1,21 @@
+Wed Jul 12 23:27:04 2017
+*****************************************
+failed to send request to SLV1
+runtime: 83233
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 1
+failed to send request to SLV1
+runtime: 154161
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 2
+failed to send request to SLV1
+runtime: 225919
+-----------------------------------------
+Reattempting to send request to SLV1. attempt number: 3
+failed to send request to SLV1
+runtime: 297602
+-----------------------------------------
+failed to send request to SLV1 after 4 attempts
+runtime: 298004
+-----------------------------------------
+*****************************************
