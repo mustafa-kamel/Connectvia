@@ -1,0 +1,16 @@
+#Disable Directory Browsing
+Options All -Indexes
+
+#Deny Access to Hidden Files and Directories
+RedirectMatch 404 /\..*$
+
+#Deny Access to Backup and Source Files
+<FilesMatch "(\.(bak|config|dist|fla|inc|ini|log|psd|sh|sql|swp)|~)$">
+    ## Apache 2.2
+    Order allow,deny
+    Deny from all
+    Satisfy All
+
+    ## Apache 2.4
+    # Require all denied
+</FilesMatch>
