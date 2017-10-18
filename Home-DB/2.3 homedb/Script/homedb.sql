@@ -204,7 +204,7 @@ CREATE DEFINER = CURRENT_USER TRIGGER `homedb`.`light_AFTER_UPDATE` AFTER UPDATE
 BEGIN
 IF (OLD.state != NEW.state OR OLD.maxVal != NEW.maxVal)
 THEN
-INSERT INTO `homedb`.`updateq`(sid, state, val) VALUES(NEW.sensors_sid, NEW.state, NEW.maxVal);
+--INSERT INTO `homedb`.`updateq`(sid, state, val) VALUES(NEW.sensors_sid, NEW.state, NEW.maxVal);
 END IF;
 INSERT INTO `homedb`.`log`(sid, state, val) VALUES(NEW.sensors_sid, NEW.state, NEW.maxVal);
 END$$
@@ -220,7 +220,7 @@ CREATE DEFINER = CURRENT_USER TRIGGER `homedb`.`appliances_AFTER_UPDATE` AFTER U
 BEGIN
 IF (OLD.state != NEW.state)
 THEN
-INSERT INTO `homedb`.`updateq`(sid, state) VALUES(NEW.sensors_sid, NEW.state);
+--INSERT INTO `homedb`.`updateq`(sid, state) VALUES(NEW.sensors_sid, NEW.state);
 END IF;
 INSERT INTO `homedb`.`log`(sid, state) VALUES(NEW.sensors_sid, NEW.state);
 END$$
@@ -236,7 +236,7 @@ CREATE DEFINER = CURRENT_USER TRIGGER `homedb`.`temp_AFTER_UPDATE` AFTER UPDATE 
 BEGIN
 IF (OLD.state != NEW.state OR OLD.preVal != NEW.preVal)
 THEN
-INSERT INTO `homedb`.`updateq`(sid, state, val) VALUES(NEW.sensors_sid, NEW.state, NEW.preVal);
+--INSERT INTO `homedb`.`updateq`(sid, state, val) VALUES(NEW.sensors_sid, NEW.state, NEW.preVal);
 INSERT INTO `homedb`.`log`(sid, state, val) VALUES(NEW.sensors_sid, NEW.state, NEW.preVal);
 ELSE
 INSERT INTO `homedb`.`log`(sid, state, val) VALUES(NEW.sensors_sid, NEW.state, NEW.curVal);
